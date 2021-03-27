@@ -12,5 +12,6 @@ Saurav Dhyani
 https://www.sauravdhyani.com/p/bcopendiscussion.html
 
 # Reference Session Recording
+https://youtu.be/KPh-1HQs4xI
 
 # Reference Article
