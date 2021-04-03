@@ -9,7 +9,7 @@ Saurav Dhyani
 
 # Source
 #bcopendiscussion. 
-https://www.sauravdhyani.com/p/bcopendiscussion.html
+https://bit.ly/msdyn365bcopendiscussion
 
 # Reference Session Recording
 https://youtu.be/KPh-1HQs4xI
